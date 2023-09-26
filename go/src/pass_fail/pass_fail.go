@@ -7,6 +7,7 @@ import (
 	"keyboard"
 )
 
+
 func main() {
 	fmt.Print("Enter a grade: ")
 	grade, err := keyboard.GetFloat()
