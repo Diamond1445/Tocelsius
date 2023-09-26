@@ -1,0 +1,8 @@
+go 1.21.1
+
+use (
+	./go/src/keyboard
+	./go/src/pass_fail
+	./go/src/project-2/average
+	./go/src/tocelsius
+)
